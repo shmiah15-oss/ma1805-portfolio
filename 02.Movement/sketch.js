@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let x = 0;
 let y = 0;
 let lines = 0;
@@ -36,4 +37,13 @@ function draw() {
   text(myText, width/2, height/2);
   lines++;
   
+=======
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  circle(100,30,100)
+>>>>>>> 4acb108e6d7fda017cd1395547b6a2a7fc5225c6
 }
