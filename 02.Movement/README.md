@@ -1,6 +1,1 @@
-Honestly, all I'm doing for this one is messing around with the code
-
-I'm going to call this chaos/not sure how i've created this
-This is more fun than I thought 
-
-I don't really understand what i does
+At first I was playing around with the code - testing out different things I could do, after a while of this I decided on making a cloud with rain/snow falling - inspired by a cloud stamper made by TareK-Zaher on the coding train website. When i was messing around with the code, I think I gained a deeper understanding of the meaning of certain codes.
