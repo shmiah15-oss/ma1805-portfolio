@@ -1,1 +1,3 @@
-At first I was playing around with the code - testing out different things I could do, after a while of this I decided on making a cloud with rain/snow falling - inspired by a cloud stamper made by TareK-Zaher on the coding train website. When i was messing around with the code, I think I gained a deeper understanding of the meaning of certain codes.
+At first I was playing around with the code - testing out different things I could do, after a while of this I decided on making a cloud with rain/snow falling - inspired by a cloud stamper made by TareK-Zaher on the coding train website. When i was messing around with the code, I think I gained a deeper understanding of the meaning of certain codes. It was actually quite hard to decide on what I wanted to do beacuse movement coding was a fun to experiment with. 
+
+Is there a way to make the 'snow' move continuously?
