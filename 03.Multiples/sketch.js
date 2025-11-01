@@ -118,7 +118,7 @@ function draw() {
   text(word8, 300, 100);
   fill('green');
   text(word7, 300, 150);
-  fill('b;ue')
+  fill('blue')
   text(word6, 300, 200);
   fill('white');
   text(word5, 300, 250);

@@ -1,5 +1,6 @@
 let y = 0;
 
+
 function setup() {
   createCanvas(500, 500);
    background(0);
@@ -21,7 +22,7 @@ function draw() {
    circle(100+mouseX, 250, 100);
    circle(50+mouseX, 250, 100);
    
-   //rain
+//rain
    circle(10+mouseX, 250+y, 10);
    circle(30+mouseX, 220+y, 10);
    circle(50+mouseX, 250+y, 10);
@@ -98,6 +99,7 @@ function draw() {
    circle(220+mouseX, 145+y, 10);
    
 
+   
 // I feel like this is too simple
 
 
