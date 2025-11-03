@@ -167,7 +167,7 @@ function draw() {
   word3 = theText3[i];
   if(i>=theText3.length);
 
-//text 4 - body parts
+//text 4 - colours
   word4 = theText4[i];
   if(i>=theText4.length);
 
@@ -175,19 +175,19 @@ function draw() {
   word5 = theText5[i];
   if(i>=theText5.length);
 
-//text 6 - night time
+//text 6 - housing
   word6 = theText6[i];
   if(i>=theText6.length);
 
-//text 7 - night time
+//text 7 - fruits
   word7 = theText7[i];
   if(i>=theText7.length);
 
-//text 8 - night time
+//text 8 - flowers
   word8 = theText8[i];
   if(i>=theText8.length);
 
-//text 9 - night time
+//text 9 - school
   word9 = theText9[i];
   if(i>=theText5.length);
 
